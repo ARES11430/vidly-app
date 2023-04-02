@@ -11,7 +11,7 @@
     "node": "18.12.1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Amin Ghasemi",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
