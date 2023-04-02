@@ -21,7 +21,7 @@ const logging = require("./start/logging");
 const dotenv = require("dotenv");
 dotenv.config();
 
-// production
+// production only required
 const { prod } = require("./start/prod");
 prod(app);
 
