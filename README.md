@@ -1,2 +1,2 @@
 # vidly-app
-My first node.js app
+A basic node.js back-end app with mongoose and express
